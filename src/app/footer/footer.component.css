@@ -1,0 +1,18 @@
+.cricle{
+  width:35px;
+  height: 35px;
+}
+.fonts{
+  font-size: 14px;
+}
+
+.ma{
+  margin: 80px 0;
+}
+p{
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.bg-footer{
+  background-color: #0c1216;
+}

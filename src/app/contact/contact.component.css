@@ -1,0 +1,16 @@
+.form-control::shadow{
+  box-shadow: none;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+
+}
+.form-floating .colo2{
+  color: #1abc9c;
+  font-size: 14px;
+}
+.colorr{
+  background-color: #1abc9c;
+  color: white;
+  
+}

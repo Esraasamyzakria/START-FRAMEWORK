@@ -1,0 +1,16 @@
+.hovs{
+  opacity: 0;
+  transition: all 0.5s;
+  top: 0px;
+  left: 10px;
+  bottom: 0px;
+  right: 10px;
+}
+.hovs:hover {
+  opacity: 0.8;
+}
+.bg-hov{
+  background-color: #0067f824;
+
+}
+
