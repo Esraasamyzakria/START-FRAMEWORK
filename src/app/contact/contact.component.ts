@@ -8,6 +8,9 @@ import { FormsModule } from '@angular/forms';
   styleUrl: './contact.component.css'
 })
 export class ContactComponent {
-  showLabel: boolean = false;
-  inputValue: string = '';
+head:string="CONATCT SECTION"
+name:string="UserName:"
+userAge:string="userAge:"
+userEmail:string="userEmail:"
+userPassword:string="userPassword :"
 }

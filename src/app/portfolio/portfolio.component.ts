@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
   styleUrl: './portfolio.component.css'
 })
 export class PortfolioComponent {
+  head:string="PORTFOLIO COMPONENT";
   images:string[]=[
     "/img/poert1.png",
     "/img/port2.png",
